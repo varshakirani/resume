@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.10.5)  15 FEB 2015 20:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.10.5)  15 FEB 2015 21:43
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -456,13 +456,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
  []
 
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-)
-LaTeX Font Info:    Try loading font information for U+mvs on input line 38.
-
-(/usr/share/texmf-texlive/tex/latex/marvosym/umvs.fd)
-<varsha.jpg, id=36, 600.2425pt x 601.24625pt>
+<varsha.jpg, id=47, 600.2425pt x 601.24625pt>
 File: varsha.jpg Graphic file (type jpg)
  <use varsha.jpg>
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 38.
@@ -494,39 +488,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 38.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 38--38
- [][][]| [][]  
- []
-
-
-Underfull \hbox (badness 4779) in paragraph at lines 45--45
-[]\T1/lmss/m/n/10 J.Salvadora 14, Cigleni-ca, 44320
- []
-
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 46.
-(/usr/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 46.
+(Font)              <10> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 70.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[][]$\T1/pcr/m/n/10 http : / / it . linkedin . com / in /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[][]$\T1/pcr/m/n/10 http : / / ntrpivan . blogspot .
- []
-
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
-)
-Underfull \hbox (badness 1540) in paragraph at lines 61--61
+Underfull \hbox (badness 1540) in paragraph at lines 75--75
 \T1/lmss/m/n/10 er, IIS, Apache, Lighttpd, Ng-inx,
  []
 
@@ -534,17 +506,17 @@ Underfull \hbox (badness 1540) in paragraph at lines 61--61
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./varsha.jpg>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 100.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 103.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 100.
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 121
+(Font)              <9> on input line 103.
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 124
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 121.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 124.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 121.
+(Font)              for symbol `textbullet' on input line 124.
 
 [2] (./resume.aux)
 
@@ -552,27 +524,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6681 strings out of 495061
- 93579 string characters out of 1182621
- 182312 words of memory out of 3000000
- 9688 multiletter control sequences out of 15000+50000
- 82696 words of font info for 60 fonts, out of 3000000 for 9000
+ 6400 strings out of 495061
+ 90237 string characters out of 1182621
+ 178312 words of memory out of 3000000
+ 9416 multiletter control sequences out of 15000+50000
+ 81658 words of font info for 57 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 45i,18n,45p,877b,617s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-texlive/font
-s/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/typ
-e1/public/lm/lmsso9.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosym/m
-arvosym.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on resume.pdf (2 pages, 328865 bytes).
+ 45i,18n,45p,856b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso9.pfb>
+Output written on resume.pdf (2 pages, 283008 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
