@@ -29,8 +29,6 @@
 %\extrainfo{additional information (optional)} % optional, remove the line if not wanted
 \photo[84pt]{varsha.jpg}          % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
 
-%\quote{"Success is the ability to go from failure to failure without losing your enthusiasm." -- Winston Churchill}                 % optional, remove the line if not wanted
-
 \quote{"All that we are is the result of what we have thought." -- Buddha}
 
 %----------------------------------------------------------------------------------
@@ -53,21 +51,11 @@
 \cventry{2014 - present}{Master of Science in Machine Learning}{\href{https://www.kth.se/en/studies/master/kth/machinelearning/description-1.48533}{KTH Royal Institute Of Technology}}{Stockholm}{Sweden}{ 2 year programme, majoring in Machine Learning and Computer Vision. Other important courses include: Artificial Neural Networks, Artificial Intelligence and Information Retrieval.}
 \cventry{2010 - 2013}{Bachelor of Science in Computer Science Engineering}{\href{http://www.msrit.edu/}{M.S.Ramaiah Institute Of Technology}}{Bangalore}{India}{4 year programme majoring in algorithms, computer architectures and basics of programming languages and platforms. Other courses included part of this program were Graphics and Visualisation, Discrete Mathematics, Database Systems and Operating Systems}
 
-%\vspace{-4mm}
-%Section
 
-%\subsection{Other}
-%\cventry{Gen 2010}{Winning team member at the GGJ 2010}{\href{http://globalgamejam.org/sites/2011/university-verona}{Global Game Jam}}{Verona}{Italy}{Our team took part at GGJ 2010, Verona and won the 1\textordmasculine\ place jury award and 2\textordmasculine\ place audience award with the game \href{http://globalgamejam.org/2011/x-planets}{X-Planets} written in C\# and based on XNA Platform.}
-%\vspace{4mm}
 \section{Technical Skills}
 \cvitem{Languages}{C++, JAVA, PYTHON, SQL, MySQL, SQLITE Latex, Javascript, HTML5, CSS3, Jquery, C, C\#}
 \cvitem{Tools}{Matlab, OpenGL, Visual Studio, Eclipse IDE, Netbeans IDE}
-%Section
-%\section{Technical Skills} 
-%\cvline{Languages}{\small JAVA, JavaScript, C\#, C, C++, SQL, T-SQL, PHP, ASP.NET, Jade, HTML5, CSS3, LESS, PYTHON, LUA, PERL, BASH, \LaTeX, GLSL, HLSL}
-%\cvcomputer{Platforms}{Unix, Linux, Windows, Windows Server, IIS, Apache, Lighttpd, Nginx, Node.js, Arduino}  {DB}{MySQL, MSSQL, MongoDB, SSIS}
-%\cvline{Tools}{VS2010, Eclipse IDE, Netbeans IDE, CMAKE Build system, ANT Build system, Git, SVN, Bzr, Mercurial, All *NIX shell tools, Direct3D 11, OpenGL 4.2, AJAX, jQuery, JSON, Express.js, Socket.io, i18n, Matlab, Office Suite, Photoshop, Gimp, AutoCad, Google SketchUp, Autodesk Maya}
-%Section
+
 \section{Recent Coursework}
 \cvlistitem{Artificial Intelligence}
 \cvlistitem{Machine Learning-Advanced}
@@ -88,13 +76,14 @@
 \section{Projects and Abstracts}
 \vspace{-3mm}
 \subsection{Hidden Markov Model based Video Game Agent for Duck Hunt}
-\cvitem{Artificial Intelligence}{With different species of birds flying around in certain pattern, the agent was supposed to classify the bird according to the species and predict its next move to shoot it down. Both prediction and classification was done using HMMs. Each bird was learned using Baum Welch Algorithm of HMMs and were placed in its species list. The classification of the new bird is done using forward algorithm. }
+\cvitem{Artificial Intelligence}{The agent playing the game is required to \textit{shoot} birds of different species flying in the sky in characteristic patterns. This entailed to build an agent that trained HMMs and used them to predict the next move of the birds and classify them based on its species. I implemented the Baum-Welch Algorithm for training HMMs and used the forward algorithm for classification and prediction. (1 member team)}
 
 \subsection{Improving Elevator Performance Using Reinforcement Learning}
 \cvitem{Machine Learning} {The challenge was to learn an optimum elevator operation policy from experience, in order to reduce the travel overhead and improve passenger service. We constructed an Artificial Neural Network to learn a map from the passenger demand scenario to the action sequence an elevator must take. We used Q-Learning for blah blah blah in blah blah blah to achieve blah blah blah. We also, simulated an elevator-calling system including a visualisation. (5 member team)}
 
-\subsection{Predicting Signal Peptides in Protein using Hidden Markov Model}
-\cvitem{Applied Bioinformatics}{The goal was to predict whether the protein contains signal peptide or not which is used in localization of proteins in the cell to do their job properly. This was supervised learning where the training data is real world data extracted from Ensembl's BioMart service. Each protein from training data is represented as Hidden Markov Model(HMM) and  all the HMMs were converged using Baum Welch Algorithm by maintaining the proteins in two clusters(with and without signal peptide). The new unseen protein is classified using Forward Algorithm. I also used BioPython to extract the data into required format. }
+\subsection{Classifying Proteins based on Signal Peptides using Hidden Markov Models}
+\cvitem{Applied Bioinformatics}{The goal was to predict whether the protein contains signal peptide or not which is used in localization of proteins in the cell to do their job properly. This was supervised learning where the training data is real world data extracted from Ensembl's BioMart service. Each protein from training data is represented as Hidden Markov Model(HMM) and  all the HMMs were converged using Baum Welch Algorithm by maintaining the proteins in two clusters(with and without signal peptide). The new unseen protein is classified using Forward Algorithm. I also used BioPython to extract the data into required format. (1 member team)}
+
 \subsection{Comparison of different methods for Search Engine of DavisWiki }
 \cvitem{Search Engine and Information Retrieval}{For DavisWiki corpus, a search engine was built where one can search for documents which has main searching facilities like intersection query, phrase query, tf-idf ranked retrieval , page rank retrieval and combination of any two. The main intention was to learn different methods in search engine and information retrieval.}
 \subsection{Generating Wardrobe Tips depending on Weather using Natural Language Generator}
@@ -124,14 +113,5 @@
 %Section
 \section{Interests and Hobbies}
 \cvline{}{\small I love any sport but I prefer Badminton and Table Tennis. I love social gathering and interested in spending time with people more. Love gaming and a big time gay NARUTO fan.}
-
-\vspace{-3mm}
-
-%Section
-%\section{Extra}
-%\small
-%\cvline{\Large qoo}{Simple PHP framework written with MVC (OOP) programming in mind that I worked on with a friend of mine.}
-%\cvlistitem{\href{https://github.com/fatmatto/qoo-framework}{GitHub Repository}}
-%\cvlistitem{\href{http://qooframework.blogspot.com/}{Qoo Framework Blog}}
 
 \end{document}
