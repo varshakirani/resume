@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.10.5)  22 FEB 2015 15:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.14)  22 FEB 2015 23:23
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -490,29 +490,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
-) [1
+)
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 72.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./varsha.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 85.
-
-LaTeX Font Info:    No file OMSlmss.fd. on input line 85.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 72.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 85.
+(Font)              for symbol `textbullet' on input line 72.
 
-[2] [3] [4] (./resume.aux)
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./varsha.jpg>]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 90.
+ [2]
+[3] [4] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6364 strings out of 495061
- 89818 string characters out of 1182621
- 180312 words of memory out of 3000000
- 9392 multiletter control sequences out of 15000+50000
- 55917 words of font info for 41 fonts, out of 3000000 for 9000
+ 6366 strings out of 495061
+ 89848 string characters out of 1182621
+ 179312 words of memory out of 3000000
+ 9394 multiletter control sequences out of 15000+50000
+ 58722 words of font info for 42 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  45i,12n,45p,1000b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-texlive/font
@@ -522,7 +526,7 @@ onts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb>
-Output written on resume.pdf (4 pages, 261669 bytes).
+Output written on resume.pdf (4 pages, 261753 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
