@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.14)  23 FEB 2015 00:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.14)  23 FEB 2015 01:14
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -504,14 +504,17 @@ LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./varsha.jpg>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 79.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 80.
  [2]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 112.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 117.
 
 [3] [4] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -521,15 +524,18 @@ Here is how much of TeX's memory you used:
  9394 multiletter control sequences out of 15000+50000
  58722 words of font info for 42 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 45i,12n,45p,1000b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mro9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
-s/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb>
-Output written on resume.pdf (4 pages, 262765 bytes).
+ 45i,11n,45p,805b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.8} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+o9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb>
+Output written on resume.pdf (4 pages, 262258 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
