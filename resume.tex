@@ -88,7 +88,8 @@
 
 \subsection{Improving Elevator Performance Using Reinforcement Learning}
 \cvitem{Machine Learning} {The challenge was to learn an optimum elevator operation policy from experience, in order to reduce the travel overhead and improve passenger service. We constructed an Artificial Neural Network to learn a map from the passenger demand scenario to the action sequence an elevator must take. 
-Different events in the simulation were in continuous time space.Because of huge branching factor, instead of look-up table, Q learning and neural networks were used to learn the system (conventionally state transition probabilities will be maintained). The Q-learning will back-propagate the error into the neural network to update the weights. Total waiting time of the passenger is reinforcement signal. Whenever an event occurs, reinforcement signal is used in Q-learning. 
+Elevator simulation was implemented to represent real time scenario. Different kinds of events (like passenger arrival, elevator arrival, passenger departure, elevator moving towards particular floor etc) can occur at different times. Thus the simulation lies in continuous state space. Q-learning which is a model free reinforcement learning technique is used to find optimal action for the particular state. Q-learning requires state to state transition probabilities in order to decide upon the action to choose. Since the elevator system lies in continuous state space, its impossible to maintain lookup table. Instead an artificial neural network is used and the weights of it is updated using back propagation algorithm.
+ 
 We also, simulated an elevator-calling system including a visualisation. (5 member team)}
 
 \subsection{Artificial Neural Network to Solve Travelling Salesmen Problem}
