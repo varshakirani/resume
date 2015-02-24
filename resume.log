@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.10.5)  23 FEB 2015 15:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.10.5)  24 FEB 2015 15:12
 entering extended mode
  %&-line parsing enabled.
 **resume.tex
@@ -506,10 +506,10 @@ LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
  [2]
+[3]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 129.
-
-[3] [4] (./resume.aux)
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 130.
+ [4] (./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -529,7 +529,7 @@ onts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb>
-Output written on resume.pdf (4 pages, 260783 bytes).
+Output written on resume.pdf (4 pages, 260828 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
